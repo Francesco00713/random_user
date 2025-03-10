@@ -1,0 +1,12 @@
+@import "image.css";
+@import "profilo.css";
+@import "commons.css";
+@import "dettagli.css";
+
+body{
+    height: 100vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
